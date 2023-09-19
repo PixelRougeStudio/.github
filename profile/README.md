@@ -2,7 +2,7 @@
 
 Hi! This is my humble game development studio working on games and open source repositories to aid in game development.
 
-![Pixel Rouge Studio](https://github.com/PixelRougeStudio/.github/blob/main/images/logo.png?raw=true)
+![Pixel Rouge Studio](https://github.com/PixelRougeStudio/.github/blob/main/images/logo_github_readme.png?raw=true)
 
 **Disclaimer: currently, all Unity projects are not being actively developed, and the focus of this organization has been creating tools for Godot game engine.**
 
