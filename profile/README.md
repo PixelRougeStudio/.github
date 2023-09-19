@@ -36,7 +36,7 @@ Hi! This is my humble game development studio working on games and open source r
 
 ## Support us
 
-![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee)(<https://www.buymeacoffee.com/savioti>)
+[![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee)](<https://www.buymeacoffee.com/savioti>)
 
 ## People
 
