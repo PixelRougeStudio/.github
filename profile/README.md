@@ -36,12 +36,10 @@ Hi! This is my humble game development studio working on games and open source r
 
 ## Support us
 
-<a target="_blank" href="https://www.buymeacoffee.com/msavioti">
-  <img align="left" alt="Github" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee" /><a/><br>
+![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee)(<https://www.buymeacoffee.com/savioti>)
 
 ## People
 
-This organization is primarly maintained by:
+This organization is maintained by:
 
-<a target="_blank" href="https://github.com/MSavioti">
-  <img align="left" alt="MSavioti" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><a/><br>
+- [Savioti](https://github.com/MSavioti)
