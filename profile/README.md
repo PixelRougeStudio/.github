@@ -42,5 +42,6 @@ Hi! This is my humble game development studio working on games and open source r
 ## People
 
 This organization is primarly maintained by:
+
 <a target="_blank" href="https://github.com/MSavioti">
   <img align="left" alt="MSavioti" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><a/><br>
