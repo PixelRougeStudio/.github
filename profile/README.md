@@ -1,8 +1,10 @@
 # Pixel Rouge Studio
 
-Hi! This is my humble studio working on games and open source repositories to aid in game development.
+Hi! This is my humble game development studio working on games and open source repositories to aid in game development.
 
-Disclaimer: currently, all Unity projects are not being actively developed, and the focus of this organization has been creating tools for Godot game engine.
+![Pixel Rouge Studio](https://github.com/PixelRougeStudio/.github/blob/main/images/logo.png?raw=true)
+
+**Disclaimer: currently, all Unity projects are not being actively developed, and the focus of this organization has been creating tools for Godot game engine.**
 
 ## Projects
 
@@ -32,7 +34,8 @@ Disclaimer: currently, all Unity projects are not being actively developed, and 
 <a target="_blank" href="https://www.buymeacoffee.com/msavioti">
   <img align="left" alt="Github" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee" /><a/><br>
 
-This organization is primarly maintained by:
+## People
 
+This organization is primarly maintained by:
 <a target="_blank" href="https://github.com/MSavioti">
   <img align="left" alt="MSavioti" src="https://img.shields.io/badge/-Github-3d3d3d?style=social&logo=github" /><a/><br>
