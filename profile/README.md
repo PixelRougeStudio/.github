@@ -9,9 +9,9 @@ Hi! This is my humble game development studio working on games and open source r
 ![Godot](https://img.shields.io/badge/-Godot-3d3d3d?style=plastic&logo=godotengine)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
 
-**Disclaimer: currently, all Unity projects are not being actively developed, and the focus of this organization has been shifted towards the Godot game engine.**
-
 ## Projects
+
+**Disclaimer: currently, all Unity projects are not being actively developed, and the focus of this organization has been shifted towards the Godot game engine.**
 
 ### Godot
 
