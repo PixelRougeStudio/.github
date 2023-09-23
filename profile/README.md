@@ -2,7 +2,7 @@
 
 Hi! This is my humble game development studio working on games and open source repositories to aid in game development.
 
-![Pixel Rouge Studio](https://github.com/PixelRougeStudio/.github/blob/main/images/logo_github_readme.png?raw=true)
+![Pixel Rubro Studio](https://github.com/PixelRougeStudio/.github/blob/main/images/logo_github_readme.png?raw=true)
 
 ## Engines
 
@@ -19,20 +19,20 @@ Hi! This is my humble game development studio working on games and open source r
 
 ### Unity
 
-- [ParallaxerSystemForUnity](https://github.com/PixelRougeStudio/ParallaxerSystemForUnity): A parallax system for Unity.
-- [ObjectPoolerForUnity](https://github.com/PixelRougeStudio/ObjectPoolerForUnity): an object pooling system for Unity.
-- [AudioManagerForUnity](https://github.com/PixelRougeStudio/AudioManagerForUnity): a simple audio manager for Unity to centralize BGM and SFX playing and simplify volume adjusting.
-- [DirectionClassForUnity](https://github.com/PixelRougeStudio/DirectionClassForUnity): a C# class for Unity created to simplify implementations that involve directions.
-- [ColorsForUnity](https://github.com/PixelRougeStudio/ColorsForUnity): a static C# class providing a lot of colors to improve prototyping.
-- [FreeInspector](https://github.com/PixelRougeStudio/FreeInspector): an asset to increase the customization in Unity's inspector.
-- [MathToolsForUnity](https://github.com/PixelRougeStudio/MathToolsForUnity): libraries for use in Unity projects with tools for math, physics and random.
-- [SingletonMonobehaviour](https://github.com/PixelRougeStudio/SingletonMonobehaviour): a class to make Singleton implementation quick and easy.
-- [MonobehaviourTemplates](https://github.com/PixelRougeStudio/MonobehaviourTemplates): templates that provides further customization to newly created scripts in the Unity Editor.
-- [InspectorCustomClassCreator](https://github.com/PixelRougeStudio/InspectorCustomClassCreator): a tool to automatically create a script to customize a class in the inspector.
-- [UnityWebGLTemplates](https://github.com/PixelRougeStudio/UnityWebGLTemplates): additional templates for Unity's WebGL builder, including a template with no footer and no fullscreen button.
-- [CsharpHelperMethods](https://github.com/PixelRougeStudio/CsharpHelperMethods): helpful methods for C#, like Swap, Max and Min.
-- [CsharpExtensionMethods](https://github.com/PixelRougeStudio/CsharpExtensionMethods): as the name implies, useful extension methods for C#.
-- [UnityXtensions](https://github.com/PixelRougeStudio/UnityXtensions): class extensions and wrappers for Unity components.
+- [ParallaxerSystemForUnity](https://github.com/PixelRubro/ParallaxerSystemForUnity): A parallax system for Unity.
+- [ObjectPoolerForUnity](https://github.com/PixelRubro/ObjectPoolerForUnity): an object pooling system for Unity.
+- [AudioManagerForUnity](https://github.com/PixelRubro/AudioManagerForUnity): a simple audio manager for Unity to centralize BGM and SFX playing and simplify volume adjusting.
+- [DirectionClassForUnity](https://github.com/PixelRubro/DirectionClassForUnity): a C# class for Unity created to simplify implementations that involve directions.
+- [ColorsForUnity](https://github.com/PixelRubro/ColorsForUnity): a static C# class providing a lot of colors to improve prototyping.
+- [FreeInspector](https://github.com/PixelRubro/FreeInspector): an asset to increase the customization in Unity's inspector.
+- [MathToolsForUnity](https://github.com/PixelRubro/MathToolsForUnity): libraries for use in Unity projects with tools for math, physics and random.
+- [SingletonMonobehaviour](https://github.com/PixelRubro/SingletonMonobehaviour): a class to make Singleton implementation quick and easy.
+- [MonobehaviourTemplates](https://github.com/PixelRubro/MonobehaviourTemplates): templates that provides further customization to newly created scripts in the Unity Editor.
+- [InspectorCustomClassCreator](https://github.com/PixelRubro/InspectorCustomClassCreator): a tool to automatically create a script to customize a class in the inspector.
+- [UnityWebGLTemplates](https://github.com/PixelRubro/UnityWebGLTemplates): additional templates for Unity's WebGL builder, including a template with no footer and no fullscreen button.
+- [CsharpHelperMethods](https://github.com/PixelRubro/CsharpHelperMethods): helpful methods for C#, like Swap, Max and Min.
+- [CsharpExtensionMethods](https://github.com/PixelRubro/CsharpExtensionMethods): as the name implies, useful extension methods for C#.
+- [UnityXtensions](https://github.com/PixelRubro/UnityXtensions): class extensions and wrappers for Unity components.
 
 ## Support us
 
