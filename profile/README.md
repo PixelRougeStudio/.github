@@ -1,4 +1,4 @@
-# Pixel Rouge Studio
+# Pixel Rubro Studio
 
 Hi! This is my humble game development studio working on games and open source repositories to aid in game development.
 
