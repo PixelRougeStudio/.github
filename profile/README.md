@@ -13,6 +13,11 @@ Hi! This is my humble game development studio working on games and open source r
 
 **Disclaimer: currently, all Unity projects are not being actively developed, and the focus of this organization has been shifted towards the Godot game engine.**
 
+### Pixel Art
+
+- [Pixel Art Prototype Sprites](https://github.com/PixelRubro/Pixel-Art-Prototype-Characters): Pixel art character sprites for prototyping.
+- [Pixel Art-Prototyping CC0 Collection](https://github.com/PixelRubro/Pixel-Art-Prototyping-CC0-Collection): A collection of CC0 Pixel art sprites assembled for prototyping.
+
 ### Godot
 
 (on development)
