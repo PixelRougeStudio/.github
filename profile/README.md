@@ -47,4 +47,4 @@ Hi! This is my humble game development studio working on games and open source r
 
 This organization is maintained by:
 
-- [Savioti](https://github.com/savioti)
+- [savioti](https://github.com/savioti)
