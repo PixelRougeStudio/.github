@@ -1,6 +1,6 @@
 # Pixel Rubro Studio
 
-Hi! This is my humble game development studio working on games and open source repositories to aid in game development.
+Hi! This is where I provide my open source repositories to aid in game development.
 
 ![Pixel Rubro Studio](https://github.com/PixelRougeStudio/.github/blob/main/images/logo_github_readme.png?raw=true)
 
